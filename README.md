@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-jhevkefe wfelk
+[![Build status](https://build.appcenter.ms/v0.1/apps/867c0d4d-f7b9-4306-9a59-c3bb782bbe47/branches/main/badge)](https://appcenter.ms)
+
+link public app : https://install.appcenter.ms/orgs/instageram/apps/shopping-list/distribution_groups/public
